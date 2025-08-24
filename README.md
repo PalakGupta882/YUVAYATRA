@@ -3,7 +3,7 @@ YuvaYatra is a visually engaging and interactive landing page for a conceptual t
 
 🚀 Live Demo
 (Link to your live deployment - e.g., using GitHub Pages, Netlify, or Vercel)
-https://your-username.github.io/YuvaYatra/
+https://PalakGupta882.github.io/YuvaYatra/
 
 ✨ Key Features
 🎨 Light & Dark Mode: A theme switcher allows users to toggle between light and dark modes, with preferences saved in local storage for a persistent experience.
